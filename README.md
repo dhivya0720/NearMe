@@ -119,7 +119,7 @@ college.html
 
 ```
 ## OUTPUT
-![alt text](<Screenshot (22).png>)
+![alt text](<Screenshot (30).png>)
 ![alt text](<Screenshot (24).png>)
 ![alt text](<Screenshot (29).png>)
 ![alt text](<Screenshot (25).png>)
