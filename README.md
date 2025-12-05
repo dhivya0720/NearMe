@@ -35,10 +35,10 @@ dhivya.html
         <title>My city</title>
     </head>
     <body>
-        <h1>MADURAI</h1>
-        <h2>DHIVYA DARSHNEE.U</h2>
-        <h3>25009986</h3>
-        <img src="Screenshot 2025-11-28 113227.png"usemap="#Madurai"
+        <h1 align="center">MADURAI</h1>
+        <h2 align="center">DHIVYA DARSHNEE.U</h2>
+        <h3 align="center">25009986</h3>
+        <img src="Screenshot (30).png"usemap="#Madurai"
 
     <map name="My City">
     <area target="" alt="Pasumalai Hill" title="Pasumalai Hill" href="hill.html" coords="485,314,636,366" shape="rect">
